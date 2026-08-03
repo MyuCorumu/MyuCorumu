@@ -20,8 +20,6 @@
   
 </div>
 
-<p style="line-height: 10px; margin: 0;">&nbsp;</p>
-
 <!-- CURRENT STATUS -->
 <h3>
   <img src="./assets/slime-happy-waving.png" width="32" valign="bottom">
@@ -30,8 +28,6 @@
 
 - **Building**: Nice READMEs and Slime art!
 - **Planning**: Slime game where you protect the innocent creatures! 
-
-<p style="line-height: 4px; margin: 0;">&nbsp;</p>
 
 <!-- LANGS & TOOLS -->
 <h3>
@@ -58,8 +54,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Krita-BA61F4?style=plastic&logo=krita&logoColor=white">
 </p>
-
-<p style="line-height: 6px; margin: 0;">&nbsp;</p>
 
 <!-- STATS -->
 <h3>
