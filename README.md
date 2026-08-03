@@ -28,8 +28,8 @@
   &nbsp; Status
 </h3>
 
-**Building:** Nice READMEs and Slime art!
-**Planning:** Slime game where you protect the innocent creatures! 
+- **Building**: Nice READMEs and Slime art!
+- **Planning**: Slime game where you protect the innocent creatures! 
 
 <p style="line-height: 4px; margin: 0;">&nbsp;</p>
 
